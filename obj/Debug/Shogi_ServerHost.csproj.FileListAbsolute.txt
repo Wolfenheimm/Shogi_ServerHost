@@ -1,0 +1,12 @@
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\bin\Debug\Shogi_ServerHost.exe.config
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\bin\Debug\Shogi_ServerHost.exe
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\bin\Debug\Shogi_ServerHost.pdb
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\obj\Debug\Shogi_ServerHost.csprojAssemblyReference.cache
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\obj\Debug\Shogi_ServerHost.Properties.Resources.resources
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\obj\Debug\Shogi_ServerHost.csproj.GenerateResource.cache
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\obj\Debug\Shogi_ServerHost.exe
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\obj\Debug\Shogi_ServerHost.pdb
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\obj\Debug\Shogi_ServerHost.Form1.resources
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jesse\Documents\GitHub\Shogi_ServerHost\Shogi_ServerHost\obj\Debug\Shogi_ServerHost.csproj.CopyComplete
